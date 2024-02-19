@@ -10,7 +10,8 @@
 
 ---
 
-![Uploading maxresdefault.jpg…]()
+![maxresdefault](https://github.com/h9zafALfXEUaQa1VJuS/Lineage2/assets/160411955/9791193b-846e-4d4c-b072-ca92972644e7)
+
 
 ---
 
